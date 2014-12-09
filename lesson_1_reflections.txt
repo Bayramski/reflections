@@ -1,0 +1,11 @@
+UNIX command line is very import and it is something that needs to be learned by heart
+Using diff was much more effective as it pinpoint the differences including the pages they are on
+You would be able to pinpoint the import changes and when they occured so you can always go back to point before
+The pros are that you have the freedom to save whenever you want without too much clutter
+The cons are that your program may crash and you may lose data if you don't commit often enough
+Because in programing you often have multiple files that depend on one another, and therefore there are often cases where changing one thing in one file results in a change in another
+Git log can be used to make notes of updates and changes and easily review them
+Git diff can be used to spot the changes between two versions in order to quickly find bugs
+Version control will make you much more confident as you can always revert and checkout to the previous version
+I want to use git to learn more software development
+When you init a repo it creates a hidden folder with metadata relating to your files. This allows th creation of a git repo which then can be used to commit changes.
