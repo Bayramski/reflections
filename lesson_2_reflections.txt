@@ -1,0 +1,2 @@
+It is very easy to learn Git and Unix command line by using it frequently
+The staging area is different that it offer a temporary space for you to select the files you want to be updated in the commit.  It offers tramendous value as it allows for you to specify which files to update and avoids redundancy
